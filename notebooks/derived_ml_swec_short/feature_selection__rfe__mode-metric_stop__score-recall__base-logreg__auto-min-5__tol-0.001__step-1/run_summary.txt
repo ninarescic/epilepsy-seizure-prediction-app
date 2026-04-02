@@ -1,0 +1,13 @@
+Feature selection run completed.
+Run directory: C:\Users\rescic\PycharmProjects\eeg_ml\notebooks\derived_ml_swec_short\feature_selection__rfe__mode-metric_stop__score-recall__base-logreg__auto-min-5__tol-0.001__step-1
+Subjects: 18
+FS method: rfe
+FS selection mode: metric_stop
+FS scoring: recall
+Base estimator: logreg
+Requested features (fixed_k mode): 20
+Minimum features (metric_stop mode): 5
+SFS tolerance (metric_stop mode): 0.001
+RFE step: 1
+Average selected features: 12.28
+Mean balanced accuracy of the simple probe model: 0.6669

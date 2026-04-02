@@ -1,0 +1,10 @@
+MODEL_NAME = random_forest
+USE_SELECTED_FEATURES = True
+FS_RUN_NAME = feature_selection__rfe__mode-metric_stop__score-recall__base-logreg__auto-min-5__tol-0.001__step-1
+POSITIVE_THRESHOLD = 0.5
+N_SUBJECTS = 18
+N_ROWS = 31774
+N_TOTAL_FEATURES = 144
+MEAN_BALANCED_ACCURACY = 0.657605
+MEAN_F1 = 0.460038
+MEAN_ROC_AUC = 0.766285
