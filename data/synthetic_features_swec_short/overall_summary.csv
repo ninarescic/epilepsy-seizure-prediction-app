@@ -1,0 +1,9 @@
+metric,value
+n_participants,5.0
+n_recordings,10.0
+n_usable_recordings,10.0
+usable_fraction,1.0
+mean_seizure_length_s,60.0
+median_seizure_length_s,60.0
+mean_recording_length_s,120.0
+median_original_n_channels,20.0

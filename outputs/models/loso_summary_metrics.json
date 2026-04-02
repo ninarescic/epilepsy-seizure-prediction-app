@@ -1,0 +1,19 @@
+{
+  "validation_strategy": "LOSO",
+  "group_column": "subject_id",
+  "model_name": "random_forest",
+  "use_selected_features": true,
+  "n_subjects": 18,
+  "n_total_rows": 31774,
+  "n_features_used": 20,
+  "overall_accuracy": 0.7724554667338075,
+  "overall_roc_auc": 0.7806433148069034,
+  "class_mapping": {
+    "non_seizure": 0,
+    "seizure": 1
+  },
+  "tn": 19777,
+  "fp": 3547,
+  "fn": 3683,
+  "tp": 4767
+}

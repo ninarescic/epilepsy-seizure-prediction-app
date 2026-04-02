@@ -1,0 +1,11 @@
+subject_id,fileName,duration_s,seizure_start_s,seizure_end_s,seizure_duration_s,original_n_channels,used_n_channels,enough_channels,used_for_model
+SIM1,Sz01.mat,120.0,60.0,120.0,60.0,20,20,True,True
+SIM1,Sz02.mat,120.0,60.0,120.0,60.0,20,20,True,True
+SIM2,Sz01.mat,120.0,60.0,120.0,60.0,20,20,True,True
+SIM2,Sz02.mat,120.0,60.0,120.0,60.0,20,20,True,True
+SIM3,Sz01.mat,120.0,60.0,120.0,60.0,20,20,True,True
+SIM3,Sz02.mat,120.0,60.0,120.0,60.0,20,20,True,True
+SIM4,Sz01.mat,120.0,60.0,120.0,60.0,20,20,True,True
+SIM4,Sz02.mat,120.0,60.0,120.0,60.0,20,20,True,True
+SIM5,Sz01.mat,120.0,60.0,120.0,60.0,20,20,True,True
+SIM5,Sz02.mat,120.0,60.0,120.0,60.0,20,20,True,True

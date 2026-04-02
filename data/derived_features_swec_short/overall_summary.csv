@@ -1,0 +1,2 @@
+n_subjects,n_recordings,n_windows,n_features,window_seconds,overlap_seconds,first_n_channels,run_mode,cobrabox_mode
+18,98,31774,140,2.0,0.5,20,full,safe_apply

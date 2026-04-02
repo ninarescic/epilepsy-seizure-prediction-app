@@ -1,0 +1,6 @@
+subject_id,n_recordings,n_usable_recordings,mean_seizure_length_s,median_seizure_length_s,min_seizure_length_s,max_seizure_length_s,mean_recording_length_s,median_original_channels,min_original_channels,max_original_channels,usable_fraction
+SIM1,2,2,60.0,60.0,60.0,60.0,120.0,20.0,20,20,1.0
+SIM2,2,2,60.0,60.0,60.0,60.0,120.0,20.0,20,20,1.0
+SIM3,2,2,60.0,60.0,60.0,60.0,120.0,20.0,20,20,1.0
+SIM4,2,2,60.0,60.0,60.0,60.0,120.0,20.0,20,20,1.0
+SIM5,2,2,60.0,60.0,60.0,60.0,120.0,20.0,20,20,1.0

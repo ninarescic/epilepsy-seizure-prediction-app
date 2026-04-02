@@ -1,0 +1,2 @@
+method,target_column,first_feature_column,n_rows,n_columns_total,n_metadata_columns,n_feature_columns,n_numeric_feature_columns,n_selected_features,selected_features_file,feature_scores_file,status
+mutual_info,target,line_length__ch01,31774,149,7,141,141,20,outputs\feature_selection\selected_features.json,outputs\feature_selection\feature_scores.csv,completed
