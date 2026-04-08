@@ -1,6 +1,6 @@
 # EEG Seizure Prediction App
 
-An interactive dashboard for running an EEG-based seizure prediction pipeline without requiring coding.
+An interactive dashboard for running an EEG-based seizure detection pipeline without requiring coding.
 
 This application wraps a multi-stage machine learning pipeline into a user-friendly interface, allowing non-technical users to:
 
