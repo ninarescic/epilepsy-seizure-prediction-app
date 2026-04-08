@@ -1,4 +1,4 @@
-# EEG Seizure Prediction App
+# EEG Seizure Detection App
 
 An interactive dashboard for running an EEG-based seizure detection pipeline without requiring coding.
 
